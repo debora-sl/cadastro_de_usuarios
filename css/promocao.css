@@ -1,0 +1,28 @@
+.promocao{
+    align-items: center;
+    background: #f5d374d2;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin-left: 16em;
+    margin-top: 3em;
+    width: 60%;
+}
+
+.promocao__titulo{
+    color: #d11818;
+    font-family: cursive;
+    font-size: 2em;
+}
+
+.promocao__texto{
+    font-family: cursive;
+    font-size: 1em;
+    padding-top: 10px;
+}
+
+.promocao__imagem{
+    height: 250px;
+    padding-top: 10px;
+}

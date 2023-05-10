@@ -1,0 +1,10 @@
+.cabecalho{
+   /* border: thin solid #d83434; */
+    display: flex;
+    justify-content: center;
+}
+
+.cabecalho_logo_hair{
+   /* border: thin solid #d83434; */
+    height: 200px;
+}

@@ -1,0 +1,29 @@
+.rodape{
+    align-items: center;
+    background: #070707;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.rodape__lista{
+
+    height: 170px;
+}
+
+.rodape__itens{
+    background: #9b864dd2;
+    margin-top: 1em;
+    padding: 5px;
+    text-align: center;
+    width: 400px;
+}
+
+.rodape__itens a{
+    color: #070707;
+}
+
+.rodape__informacao-dev{
+    color: #f1f1f1d2;
+    padding: 10px;
+}

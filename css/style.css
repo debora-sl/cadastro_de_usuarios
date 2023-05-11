@@ -2,3 +2,26 @@ body{
     background: #000000;
     padding: 1em;
 }
+
+.linha-decoracao{
+    border: thick solid #e4ca84d2;
+    border-radius: 10px;
+    margin-top: 1em;
+}
+
+.pagina-inicial{
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+}
+
+.pagina-inicial__link{
+    color: #fefefe;
+    font-size: 2em;
+}
+
+.main{
+    align-items: center ;
+    display: flex;
+    justify-content: center;    
+}
